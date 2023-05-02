@@ -1,2 +1,0 @@
-C:\Users\mrpoi\Desktop\lagrangeinterpolation-master\Debug\LagrangeInterpolation.exe
-C:\Users\mrpoi\Desktop\lagrangeinterpolation-master\Debug\LagrangeInterpolation.pdb
